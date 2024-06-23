@@ -4,12 +4,21 @@
   "description": "It is a bright and vivid shade of blue with a hint of purple.",
   "version": "0.0.1",
   "publisher": "rohitnirban",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.90.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "purple",
+    "theme",
+    "vivid",
+    "blue",
+    "rohitnirban"
+  ],
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/rohitnirban/purple-tone"
