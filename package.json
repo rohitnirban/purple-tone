@@ -1,0 +1,21 @@
+{
+  "name": "purple-tone",
+  "displayName": "Purple Tone",
+  "description": " It is a bright and vivid shade of blue with a hint of purple.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Purple Tone",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Purple Tone-color-theme.json"
+      }
+    ]
+  }
+}
