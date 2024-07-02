@@ -7,3 +7,33 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+## [0.0.5] - 2024-07-02
+
+### Fixed
+
+- Fix editor selection color and terminal borders
+
+## [0.0.4] - 2024-06-24
+
+### Fixed
+
+- Fix some colors
+
+## [0.0.3] - 2024-06-24
+
+### Fixed
+
+- Fix some text colors
+
+## [0.0.2] - 2024-06-23
+
+### Fixed
+
+- Fix some border colors
+
+## [0.0.1] - 2024-06-23
+
+### Initial
+
+- Initial release
