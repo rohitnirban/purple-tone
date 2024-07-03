@@ -8,6 +8,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Initial release
 
+## [0.0.6] - 2024-07-03
+
+### Fixed
+
+- Fix editor selection color
+
 ## [0.0.5] - 2024-07-02
 
 ### Fixed
