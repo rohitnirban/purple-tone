@@ -8,6 +8,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Initial release
 
+## [0.0.7] - 2024-07-19
+
+### Fixed
+
+- Fix tab git decoration with light color to differentiate between deletion and modification
+
 ## [0.0.6] - 2024-07-03
 
 ### Fixed
